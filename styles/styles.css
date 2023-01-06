@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+/* Header styles */
+header{
+    display: flex;
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 0px;
+}
+.header-title{
+    margin-top: 250px;
+    margin-left: 1055px;
+    margin-right: 230px;
+    text-align: right;
+}
+.header-text{
+    font-weight: 1000;
+    font-size: 65px;
+    color: #151414;
+}
+.header-description{
+    margin-top: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+/* Contact Button styles */
+.button{
+    height: 64px;
+    width: 164px;
+    background-color:#F15B22 ;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    border-radius: 5px;
+    padding: 18px 35px;
+    margin-top: 32px;
+    margin-bottom: 380px;   
+}
+/* main section styles */
+.section-title{
+    text-align: left;
+    font-weight: 900;
+    font-size: 40px;
+    margin-top: 120px;
+    margin-left: 1150px;
+    margin-right: 232;
+}
+.section-description{
+    text-align: left;
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 24px;
+    margin-left: 1150px;
+    margin-right: 232px;
+    margin-bottom: 16px; 
+}
+.section-checkmark{
+    margin-left: 50px;
+}
