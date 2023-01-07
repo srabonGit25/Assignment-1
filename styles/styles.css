@@ -101,6 +101,7 @@ li:before{
     justify-content: center;
 }
 .title{
+    margin-top: 26px;
     color: #151414;
     font-weight: 700;
     font-size: 30px;
