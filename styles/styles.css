@@ -136,8 +136,8 @@ li:before{
 .call-now-btn{
     height: 64px;
     width: 164px;
-    background-color:#F15B22  ;
-    color: #FFFFFF;
+    background-color:#FFFFFF; 
+    color: #F15B22;
     font-weight: 600;
     font-size: 20px;
     border: 0;
